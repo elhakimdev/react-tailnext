@@ -12,9 +12,18 @@ yarn dev
 
 ## how to contribute
 
+
 ## Documentation
-The documentation is being under development
+The documentation is being under development 
+
+### app-versions 
+pre-defined veersions
+-    alpha 1.0.0
+
 ### Project structure 
+if you like to contribute this project, please, follow up on folders structure that i was make it :
+we must follow it to make scalable, and readable under this project is being development.
+
 ```
 # root directory
 \src
